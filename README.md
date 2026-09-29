@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Attendance & Performance Management System Using Python
 
 A Python-only desktop application (Tkinter GUI + SQLite database) to manage students, attendance, marks, grades, rankings, dashboards, charts and at-risk student detection.
@@ -47,3 +48,7 @@ Use **File > Load sample data** to fill the app with 10 demo students for testin
 ![Students](screenshots/students.png)
 ## Author
 Gulla Naresh
+=======
+# -Student-Attendance-Performance-Management-System-using-python
+   Student Attendance Performance Management System using python
+>>>>>>> 0af91c12ab1d10d950e10610397e44b41b243233
